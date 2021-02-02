@@ -13,4 +13,6 @@
 
 <p align="center"> <samp> <b>  Je vais mettre un petit Gif de chat parce qu'il parait que ça fait son petit effet </b></samp> </p>
 
- <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80" height="80" /><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80" height="80" /><img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80" height="80" />
+<p align="center">
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" /> </p>
+
