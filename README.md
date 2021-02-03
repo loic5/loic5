@@ -16,6 +16,8 @@
 <p align="center">
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" /> </p>
 
+<p align="center"> Vous pouvez également me retrouver ici </p>
+<p align="center"> 👇 </p> 
 <p align="center">
 <a href="https://twitter.com/LoicLengrand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/LoicLengrand" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/loiclengrand/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/loiclengrand/" height="20" width="20" /></a>
