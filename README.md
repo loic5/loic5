@@ -22,7 +22,7 @@
 <a href="https://twitter.com/LoicLengrand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/LoicLengrand" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/loiclengrand/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/loiclengrand/" height="20" width="20" /></a>
 <div class="bxs-video-container"><div class="bxs-video" /></div>
-<p align="center"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=loiclengrand" target="_blank">Follow on LinkedIn</a>
+<p align="center"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=loiclengrand" target="_blank">Suivez-moi sur LinkedIn</a>
 </p>
 
 
